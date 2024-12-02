@@ -1,2 +1,2 @@
 # Live-Logger
-Live debug from current application
+Log data from currently application in real time using file data mapping
